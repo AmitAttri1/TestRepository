@@ -1,0 +1,6 @@
+1. docker-compose up
+2. docker-compose down
+3. docker ps (to check the current container running)
+4. docker contaner <contaner_id> bash (to connect with the bash shell)
+5. mysql -uroot -proot (to connect with the mysql database)
+
